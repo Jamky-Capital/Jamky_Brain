@@ -1,0 +1,25 @@
+{
+  "EURUSD": {
+    "allow": true,
+    "mode": "attack",
+    "rr": 3.5,
+    "partial": 75,
+    "breakeven": 80
+  },
+
+  "GBPJPY": {
+    "allow": true,
+    "mode": "balanced",
+    "rr": 3.0,
+    "partial": 65,
+    "breakeven": 70
+  },
+
+  "XAUUSD": {
+    "allow": true,
+    "mode": "defensive",
+    "rr": 2.5,
+    "partial": 55,
+    "breakeven": 60
+  }
+}
